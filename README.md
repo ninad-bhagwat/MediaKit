@@ -1,6 +1,6 @@
-# MediaFlow 🚀
+# MediaKit 🚀
 
-MediaFlow is a modern web application built with Next.js that allows users to upload, preview, download, and transform media files. It supports video playback directly in the browser and enables image conversion into popular social media formats such as Instagram thumbnails, Facebook posts, and more.
+MediaKit is a modern web application built with Next.js that allows users to upload, preview, download, and transform media files. It supports video playback directly in the browser and enables image conversion into popular social media formats such as Instagram thumbnails, Facebook posts, and more.
 
 ## Features
 
